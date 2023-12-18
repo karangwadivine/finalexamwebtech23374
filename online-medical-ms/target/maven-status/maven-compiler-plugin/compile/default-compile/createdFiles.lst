@@ -1,0 +1,9 @@
+com\webtech\onlinemedicalms\model\SignupData.class
+com\webtech\onlinemedicalms\repository\medeStatusRepo.class
+com\webtech\onlinemedicalms\OnlineMedicalMsApplication.class
+com\webtech\onlinemedicalms\service\signupService.class
+com\webtech\onlinemedicalms\repository\medecineRepo.class
+com\webtech\onlinemedicalms\controller\InventoryController.class
+com\webtech\onlinemedicalms\repository\usernamerepo.class
+com\webtech\onlinemedicalms\model\Medecine.class
+com\webtech\onlinemedicalms\repository\usersRepository.class
